@@ -1,16 +1,6 @@
 # Changelogger
 
-edit by F4biTV
-Helps you run your modpack by generating changelogs from your packs solder api.
-
-## Installation
-
-Basically, just clone and open the `index.html` file.
-
-## Usage
-
-Open the app and enter an technicpack api URL, then once the pack is loaded, select two builds and see the generated changelog.
-Also use the share link to give away the current state of the app.
+Edit for own Modpack.
 
 ## Contributing
 
