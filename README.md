@@ -1,5 +1,6 @@
 # Changelogger
 
+edit by F4biTV
 Helps you run your modpack by generating changelogs from your packs solder api.
 
 ## Installation
