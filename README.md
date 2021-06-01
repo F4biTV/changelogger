@@ -12,5 +12,6 @@ Edit for own Modpack.
 
 ## Credits
 
-Isigiel <initial code>
-Many people on discord <feature ideas>
+Isigiel <initial code> </br>
+heddendorp </br>
+Many people on discord <feature ideas> </br>
