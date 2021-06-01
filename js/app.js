@@ -129,7 +129,7 @@ app.controller('AppController', function($http, $mdToast, $log, $analytics, $loc
     }
 
     vm.startDemo = function () {
-        vm.url = 'http://api.technicpack.net/modpack/the-1710-pack';
+        vm.url = 'http://api.technicpack.net/modpack/f4bitv-blinding-lights';
         vm.updateUrl();
     };
 
